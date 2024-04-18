@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		55EF38B22BD09EB400C683D1 /* 앱의_생명주기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55EF38B12BD09EB400C683D1 /* 앱의_생명주기.swift */; };
 		C3452D1B2BBC51E700BA21F7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3452D1A2BBC51E700BA21F7 /* AppDelegate.swift */; };
 		C3452D1D2BBC51E700BA21F7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3452D1C2BBC51E700BA21F7 /* SceneDelegate.swift */; };
 		C3452D1F2BBC51E700BA21F7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3452D1E2BBC51E700BA21F7 /* ViewController.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		55EF38B12BD09EB400C683D1 /* 앱의_생명주기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "앱의_생명주기.swift"; sourceTree = "<group>"; };
 		C3452D172BBC51E700BA21F7 /* Basic_Thing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Basic_Thing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3452D1A2BBC51E700BA21F7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C3452D1C2BBC51E700BA21F7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				C3452D2B2BBC51E800BA21F7 /* Info.plist */,
 				C3452D232BBC51E700BA21F7 /* Basic_Thing.xcdatamodeld */,
 				C3452D4D2BBC528600BA21F7 /* 클래스와구조체.swift */,
+				55EF38B12BD09EB400C683D1 /* 앱의_생명주기.swift */,
 			);
 			path = Basic_Thing;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C3452D1F2BBC51E700BA21F7 /* ViewController.swift in Sources */,
+				55EF38B22BD09EB400C683D1 /* 앱의_생명주기.swift in Sources */,
 				C3452D1B2BBC51E700BA21F7 /* AppDelegate.swift in Sources */,
 				C3452D1D2BBC51E700BA21F7 /* SceneDelegate.swift in Sources */,
 				C3452D4E2BBC528600BA21F7 /* 클래스와구조체.swift in Sources */,
